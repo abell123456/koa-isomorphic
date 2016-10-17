@@ -1,0 +1,4 @@
+2016-10-10 22:54:44,366 INFO 7945 [-/::1/-/42ms GET /news] status 404 (rt: 41ms)
+2016-10-10 22:54:55,331 INFO 7946 [-/::1/-/35ms GET /] status 301 (rt: 34ms)
+2016-10-10 22:54:56,332 INFO 7946 [-/::1/-/991ms GET /home] [view] render Home 988ms
+2016-10-10 22:54:56,333 INFO 7946 [-/::1/-/993ms GET /home] status 200 (view: 988ms, rt: 993ms)

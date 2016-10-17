@@ -1,0 +1,6 @@
+2016-10-10 22:06:31,021 INFO 7221 [egg:watcher:agent] watcher start success
+2016-10-10 22:06:30,930 INFO 7221 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic","rotateLogDirs":["/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"egg-isomorphic-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-10-10 22:06:30,939 INFO 7221 [egg:agent] create an AgentWorkerClient for "watcher"
+2016-10-10 22:17:44,942 INFO 7943 [egg:watcher:agent] watcher start success
+2016-10-10 22:17:44,852 INFO 7943 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic","rotateLogDirs":["/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"egg-isomorphic-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2016-10-10 22:17:44,862 INFO 7943 [egg:agent] create an AgentWorkerClient for "watcher"

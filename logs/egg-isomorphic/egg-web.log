@@ -1,0 +1,48 @@
+2016-10-10 22:17:46,220 INFO 7945 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic","rotateLogDirs":["/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"egg-isomorphic-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2016-10-10 22:17:46,223 INFO 7945 [egg:worker] create an AppWorkerClient for "watcher"
+2016-10-10 22:17:46,320 INFO 7945 [egg-schedule]: register schedule egg-schedule:/Users/wangxiangzhong/github/egg-isomorphic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2016-10-10 22:17:46,320 INFO 7945 [egg-schedule]: register schedule egg-schedule:/Users/wangxiangzhong/github/egg-isomorphic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2016-10-10 22:17:46,967 INFO 7945 [egg-static] starting static serve /public/ -> /Users/wangxiangzhong/github/egg-isomorphic/app/public
+2016-10-10 22:17:46,999 INFO 7945 [egg-security] use csrf middleware
+2016-10-10 22:17:47,001 INFO 7945 [egg-security] use methodnoallow middleware
+2016-10-10 22:17:47,002 INFO 7945 [egg-security] use noopen middleware
+2016-10-10 22:17:47,003 INFO 7945 [egg-security] use nosniff middleware
+2016-10-10 22:17:47,005 INFO 7945 [egg-security] use xssProtection middleware
+2016-10-10 22:17:47,007 INFO 7945 [egg-security] use xframe middleware
+2016-10-10 22:17:47,007 INFO 7945 [egg-security] compose 6 middlewares into one security middleware
+2016-10-10 22:17:46,221 INFO 7944 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic","rotateLogDirs":["/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"egg-isomorphic-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2016-10-10 22:17:46,223 INFO 7944 [egg:worker] create an AppWorkerClient for "watcher"
+2016-10-10 22:17:46,321 INFO 7944 [egg-schedule]: register schedule egg-schedule:/Users/wangxiangzhong/github/egg-isomorphic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2016-10-10 22:17:46,321 INFO 7944 [egg-schedule]: register schedule egg-schedule:/Users/wangxiangzhong/github/egg-isomorphic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2016-10-10 22:17:46,967 INFO 7944 [egg-static] starting static serve /public/ -> /Users/wangxiangzhong/github/egg-isomorphic/app/public
+2016-10-10 22:17:46,999 INFO 7944 [egg-security] use csrf middleware
+2016-10-10 22:17:47,002 INFO 7944 [egg-security] use methodnoallow middleware
+2016-10-10 22:17:47,002 INFO 7944 [egg-security] use noopen middleware
+2016-10-10 22:17:47,003 INFO 7944 [egg-security] use nosniff middleware
+2016-10-10 22:17:47,005 INFO 7944 [egg-security] use xssProtection middleware
+2016-10-10 22:17:47,007 INFO 7944 [egg-security] use xframe middleware
+2016-10-10 22:17:47,007 INFO 7944 [egg-security] compose 6 middlewares into one security middleware
+2016-10-10 22:17:46,221 INFO 7946 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic","rotateLogDirs":["/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"egg-isomorphic-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2016-10-10 22:17:46,224 INFO 7946 [egg:worker] create an AppWorkerClient for "watcher"
+2016-10-10 22:17:46,317 INFO 7946 [egg-schedule]: register schedule egg-schedule:/Users/wangxiangzhong/github/egg-isomorphic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2016-10-10 22:17:46,317 INFO 7946 [egg-schedule]: register schedule egg-schedule:/Users/wangxiangzhong/github/egg-isomorphic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2016-10-10 22:17:46,983 INFO 7946 [egg-static] starting static serve /public/ -> /Users/wangxiangzhong/github/egg-isomorphic/app/public
+2016-10-10 22:17:47,004 INFO 7946 [egg-security] use csrf middleware
+2016-10-10 22:17:47,006 INFO 7946 [egg-security] use methodnoallow middleware
+2016-10-10 22:17:47,007 INFO 7946 [egg-security] use noopen middleware
+2016-10-10 22:17:47,007 INFO 7946 [egg-security] use nosniff middleware
+2016-10-10 22:17:47,008 INFO 7946 [egg-security] use xssProtection middleware
+2016-10-10 22:17:47,009 INFO 7946 [egg-security] use xframe middleware
+2016-10-10 22:17:47,009 INFO 7946 [egg-security] compose 6 middlewares into one security middleware
+2016-10-10 22:17:46,240 INFO 7947 [egg:logger] init all loggers with options: {"dir":"/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic","rotateLogDirs":["/Users/wangxiangzhong/github/egg-isomorphic/logs/egg-isomorphic"],"encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"egg-isomorphic-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2016-10-10 22:17:46,242 INFO 7947 [egg:worker] create an AppWorkerClient for "watcher"
+2016-10-10 22:17:46,423 INFO 7947 [egg-schedule]: register schedule egg-schedule:/Users/wangxiangzhong/github/egg-isomorphic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2016-10-10 22:17:46,425 INFO 7947 [egg-schedule]: register schedule egg-schedule:/Users/wangxiangzhong/github/egg-isomorphic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2016-10-10 22:17:47,020 INFO 7947 [egg-static] starting static serve /public/ -> /Users/wangxiangzhong/github/egg-isomorphic/app/public
+2016-10-10 22:17:47,048 INFO 7947 [egg-security] use csrf middleware
+2016-10-10 22:17:47,050 INFO 7947 [egg-security] use methodnoallow middleware
+2016-10-10 22:17:47,051 INFO 7947 [egg-security] use noopen middleware
+2016-10-10 22:17:47,052 INFO 7947 [egg-security] use nosniff middleware
+2016-10-10 22:17:47,053 INFO 7947 [egg-security] use xssProtection middleware
+2016-10-10 22:17:47,054 INFO 7947 [egg-security] use xframe middleware
+2016-10-10 22:17:47,054 INFO 7947 [egg-security] compose 6 middlewares into one security middleware

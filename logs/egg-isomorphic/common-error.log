@@ -1,0 +1,36 @@
+2016-10-10 22:23:20,760 ERROR 7943 nodejs.ENOENTError: watch /Users/wangxiangzhong/github/egg-isomorphic/app/public/assets/node_modules/babel-helper-builder-react-jsx/node_modules/core-js/library/web ENOENT
+    at exports._errnoException (util.js:1036:11)
+    at FSWatcher.start (fs.js:1429:19)
+    at Object.fs.watch (fs.js:1456:11)
+    at Walk.<anonymous> (/Users/wangxiangzhong/github/egg-isomorphic/node_modules/wt/index.js:186:20)
+    at emitTwo (events.js:106:13)
+    at Walk.emit (events.js:191:7)
+    at /Users/wangxiangzhong/github/egg-isomorphic/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:123:15)
+code: 'ENOENT'
+errno: 'ENOENT'
+syscall: 'watch /Users/wangxiangzhong/github/egg-isomorphic/app/public/assets/node_modules/babel-helper-builder-react-jsx/node_modules/core-js/library/web'
+filename: '/Users/wangxiangzhong/github/egg-isomorphic/app/public/assets/node_modules/babel-helper-builder-react-jsx/node_modules/core-js/library/web'
+dir: '/Users/wangxiangzhong/github/egg-isomorphic/app/public/assets/node_modules/babel-helper-builder-react-jsx/node_modules/core-js/library/web'
+name: 'ENOENTError'
+pid: 7943
+hostname: wangxiangzhongdeMacBook-Air.local
+
+2016-10-10 22:23:20,791 ERROR 7943 nodejs.ENOENTError: watch /Users/wangxiangzhong/github/egg-isomorphic/app/public/assets/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/core-js/library/core ENOENT
+    at exports._errnoException (util.js:1036:11)
+    at FSWatcher.start (fs.js:1429:19)
+    at Object.fs.watch (fs.js:1456:11)
+    at Walk.<anonymous> (/Users/wangxiangzhong/github/egg-isomorphic/node_modules/wt/index.js:186:20)
+    at emitTwo (events.js:106:13)
+    at Walk.emit (events.js:191:7)
+    at /Users/wangxiangzhong/github/egg-isomorphic/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:123:15)
+code: 'ENOENT'
+errno: 'ENOENT'
+syscall: 'watch /Users/wangxiangzhong/github/egg-isomorphic/app/public/assets/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/core-js/library/core'
+filename: '/Users/wangxiangzhong/github/egg-isomorphic/app/public/assets/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/core-js/library/core'
+dir: '/Users/wangxiangzhong/github/egg-isomorphic/app/public/assets/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/core-js/library/core'
+name: 'ENOENTError'
+pid: 7943
+hostname: wangxiangzhongdeMacBook-Air.local
+
